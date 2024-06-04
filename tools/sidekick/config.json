@@ -1,6 +1,6 @@
 {
     "project": "Sunstar",
-    "host": "main--edge--suraj-v23.hlx.live/",
+    "host": "main--edge--suraj-v23.hlx.live",
     "plugins": [
       {
         "id": "library",
