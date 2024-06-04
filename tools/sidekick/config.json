@@ -4,7 +4,7 @@
     "plugins": [
       {
         "id": "library",
-        "title": "Library",
+        "title": "Library9",
         "environments": ["edit"],
         "url": "/tools/sidekick/library.html",
         "includePaths": ["**.docx**"]
